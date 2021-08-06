@@ -1,5 +1,4 @@
-function-3: Aquesta funcio agafa els primers 30 segons del video i assigna diferents
-etiquetes segons el contingut del video.
+
 
 from google.cloud import videointelligence
 from google.cloud.videointelligence import enums, types
