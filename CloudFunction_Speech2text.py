@@ -1,6 +1,4 @@
-Speech2text: Aquesta funcio agafa el audio del video i extreu el que diu en el idioma
-que especifiquem, després converteix la resposta en un document srt amb el format 
-dels subtitols. 
+
 
 from google.cloud import videointelligence_v1 as vi
 from datetime import timedelta
