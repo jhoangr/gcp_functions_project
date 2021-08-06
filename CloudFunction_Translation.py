@@ -1,6 +1,4 @@
-Translation: Esta funcion coge el documento .srt con los subtitulos, lee el contenido
-i por cada subtitulo traduce el contenido al idioma que hemos elegido, después lo 
-volvemos a colocar en el mismo documento pero ya traducido.
+
 
 from google.cloud import translate
 from google.cloud import storage
