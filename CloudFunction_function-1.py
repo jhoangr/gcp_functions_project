@@ -1,5 +1,3 @@
-function-1: Aquesta funcio detecta la quantitat de frames que te el video y el
-seu posicionament temporal.
 
 from google.cloud import videointelligence
 from google.cloud.videointelligence import enums
