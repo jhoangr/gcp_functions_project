@@ -1,5 +1,3 @@
-function-2: Aquesta funcio genera un video igual al original, pero introdueix 
-els subtitols en el video. 
 
 from google.cloud import storage
 import ffmpeg
